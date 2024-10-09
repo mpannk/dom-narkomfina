@@ -23,3 +23,12 @@
   gap: 20px;
   width: 130px;
 }
+.menubar a {
+  color: grey;
+  text-decoration: none;
+  transition: 0.8s;
+}
+.menubar a:hover {
+  color: black;
+  transition: 0.2s;
+}
